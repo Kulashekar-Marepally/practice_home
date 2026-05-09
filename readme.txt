@@ -1,0 +1,1 @@
+to know the git branches and init commands 
